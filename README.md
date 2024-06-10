@@ -15,8 +15,8 @@ This is a simple mini-application built with React and Redux, styled using Tailw
 
 1. Clone the repository
     ```bash
-    git clone https://github.com/your-username/mini-app.git
-    cd mini-app
+    git clone https://github.com/makodmytro/mini-test.git
+    cd mini-test
     ```
 
 2. Install dependencies
